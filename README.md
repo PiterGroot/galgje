@@ -2,7 +2,8 @@
 
 ## Te raden woord
 
-|M|.|.|L|E|N|
+
+|M|A|I|L|E|N|
 |-|-|-|-|-|-|
 |1|2|3|4|5|6|
 
@@ -13,4 +14,4 @@
 E D N M L
 
 Het antwoord is "Mailen"
-
+GOED GERADEN
