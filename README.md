@@ -12,3 +12,5 @@
 ## Beurten
 E D N M L
 
+Het antwoord is "Mailen"
+
